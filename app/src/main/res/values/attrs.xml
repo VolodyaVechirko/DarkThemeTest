@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="appbarOverlay" format="reference" />
+    <attr name="popupOverlay" format="reference" />
+
+    <attr name="primary" format="color" />
+    <attr name="secondary" format="color" />
+<!--    <attr name="background" format="color" />-->
+<!--    <attr name="surface" format="color" />-->
+    <attr name="error" format="color" />
+
+    <attr name="onPrimary" format="color" />
+    <attr name="onSecondary" format="color" />
+    <attr name="onBackground" format="color" />
+    <attr name="onSurface" format="color" />
+    <attr name="onError" format="color" />
+
+    <attr name="chartColor" format="color" />
+</resources>
